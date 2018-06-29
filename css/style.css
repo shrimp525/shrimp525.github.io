@@ -113,6 +113,9 @@ a:focus, a:hover {
 	text-decoration: none;
 	outline: none;
 }
+a:link {color: 	#B0C4DE}
+a:visited {color: #db3552} 
+.inro{text-indent:2em}
 body {
     padding: 3em 0;
     background: url(../images/bg.jpg); 
@@ -159,6 +162,12 @@ p{
 }
 .register-left h1,.register-left h2 {
     font-size: 3em;
+    text-transform: capitalize;
+    margin-bottom: .2em;
+    color: #FFFFFF;
+}
+h3 {
+    font-size: 1.5em;
     text-transform: capitalize;
     margin-bottom: .2em;
     color: #FFFFFF;
